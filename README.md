@@ -1,1 +1,2 @@
-# sample-react
+# client
+This is a sample commit.
