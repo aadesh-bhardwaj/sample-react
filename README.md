@@ -1,2 +1,1 @@
-# client
-This is a sample commit.
+# client-auto-trigger
