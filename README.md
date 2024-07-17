@@ -1,1 +1,1 @@
-# client-auto-trigger-beta
+# client-auto-trigger-react-beta
