@@ -1,1 +1,1 @@
-# client-auto-trigger
+# client-auto-trigger-beta
